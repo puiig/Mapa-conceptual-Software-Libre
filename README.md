@@ -10,7 +10,7 @@ Un software libre nos permite cuatro tipo de libertades: nos permite **usar** el
 
 #### Clasificación de licencias de software
 
-* **Licencia de software de código cerrado (software propietario o privativo):
+* **Licencia de software de código cerrado (software propietario o privativo):**
 
 En este tipo de licencia los propietarios establecen los derechos de uso, distribución, redistribución,ventas, copia, modificación, cesión y en general cualquier otra consideración que se estime necesaria.
 
@@ -24,7 +24,7 @@ Este tipo de licencias, por lo general, no permiten que el software sea modifica
 
 * Licencia de Reader
 
-* **Licencia de software de código abierto (permisivas):
+* **Licencia de software de código abierto (permisivas):**
 
 Con este tipo de licencia se puede crear una obra derivada sin que esta tenga obligación de protección alguna. Es decir, no es necesario que tenga las mismas licencias que la original.
 
@@ -38,7 +38,7 @@ Las más importantes son:
 
 Tambien tenemos:
 
-*Academic Free License v.1.2.
+* Academic Free License v.1.2.
  
 * Apache Software License v.1.1
 
