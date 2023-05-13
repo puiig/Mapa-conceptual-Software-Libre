@@ -43,7 +43,7 @@ Las más importantes son:
 
 Tambien tenemos:
 
-* Academic Free License v.1.2.
+* Academic Free License v.1.2. 
  
 * Apache Software License v.1.1
 
