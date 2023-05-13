@@ -105,7 +105,7 @@ Esta licencia tiene elementos objetivos como lo es el plazo y el precio.
 
 #### Licencias de software libre
 
-* **Libres o Copyleft:
+* **Libres o Copyleft:**
 
 **GPL**:
 
