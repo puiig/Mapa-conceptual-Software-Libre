@@ -8,6 +8,11 @@ Se define el software libre como un software con un código fuente que puede ser
 
 Un software libre nos permite cuatro tipo de libertades: nos permite **usar** el programa con cualquier propósito que deseemos; **estudiar** y modificar el funcionamiento del programa, adaptándolo a nuestro gusto; **distribuir** copias del programa, cosa que puede ayudar a otros usuarios; y **mejorar** el programa y **hacer** públicas esas  mejoras a los demás, de modo que los usuarios se puedan beneficiar.
 
+## ¿Qué son las licencias de software?
+
+Una licencia de software es un contrato entre el licenciante y el licenciatario del programa informático, para utilizarlo cumpliendo una serie de términos y condiciones establecidas dentro de sus cláusulas, es decir, es un conjunto de permisos que un desarrollador le puede otorgar a un usuario en los que tiene la posibilidad de distribuir, usar o modificar el producto bajo una licencia determinada. Además se suelen definir los plazos de duración, el territorio donde se aplica la licencia, entre otros.
+Esta licencia tiene elementos objetivos como lo es el plazo y el precio.
+
 #### Clasificación de licencias de software
 
 * **Licencia de software de código cerrado (software propietario o privativo):**
